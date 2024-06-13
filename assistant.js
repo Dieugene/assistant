@@ -3,7 +3,7 @@ const fetch = require("node-fetch");
 let headers = {
             'Content-Type': 'application/json',
 			'OpenAI-Beta': 'assistants=v1',
-            'Authorization': 'Bearer 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'
+            'Authorization': 'Bearer '
         },
 	profile = {};
 		
