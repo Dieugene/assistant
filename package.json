@@ -1,5 +1,22 @@
 {
   "dependencies": {
     "node-fetch": "^2.6.5"
-  }
+  },
+  "name": "@dieugene/assistant",
+  "description": "OpenAI Assistant API processing module",
+  "version": "1.0.0",
+  "main": "assistant.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dieugene/assistant.git"
+  },
+  "author": "Eugene Ditkovsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dieugene/assistant/issues"
+  },
+  "homepage": "https://github.com/Dieugene/assistant#readme"
 }
